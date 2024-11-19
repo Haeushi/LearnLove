@@ -148,7 +148,7 @@ body, html {
 }
 
 .birthday-text {
-    font-size: 50px;           /* Large font size */
+    font-size: 20px;           /* Large font size */
     font-weight: bold;         /* Make it bold */
     color: black;            /* Example color (pink) */
     text-align: center;        /* Center align text */
